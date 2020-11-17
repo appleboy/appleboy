@@ -1,5 +1,5 @@
-![Appleboy's github stats](https://github-readme-stats.vercel.app/api?username=appleboy&show_icons=true&theme=merko&layout=compact)
-![Appleboy's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appleboy&theme=merko&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=appleboy&show_icons=true&theme=merko&layout=compact&count_private=true" alt="Appleboy's github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleboy&theme=merko&layout=compact" alt="Appleboy's github top languages" />
 
 <!--
 **appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
