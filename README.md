@@ -1,3 +1,5 @@
+[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/appleboy)
+
 - 🔭 I’m currently working on Mediatek as Software Enginner
 - Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
 
