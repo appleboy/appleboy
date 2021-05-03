@@ -11,6 +11,8 @@
 </a>
 <br/>
 
+![Metrics](https://metrics.lecoq.io/appleboy?template=classic&config.timezone=Asia%2FTaipei)
+
 <!--
 **appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
