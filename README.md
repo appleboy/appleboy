@@ -1,17 +1,17 @@
 ### Hey 👋, I'm appleboy
 
-**Thanks for visiting my GitHub profile, it's great to meet you here!**
+**Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
 
 [![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/appleboy)
 
 Here are some quick things about me:
 
-- 🔭 I’m currently working on [Mediatek](https://www.mediatek.tw/) as Software Enginner.
-- 🌱 I’m currently learning **Go, Python**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 🤔 I’m looking for help with **Open Source Projects**.
-- 🧑‍💻 Coding is my passion.
-- 🖋 Check my [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
+- 🔭 I’m currently working at [Mediatek](https://www.mediatek.tw/) as a Software Engineer.
+- 🌱 I’m currently learning **Go** and **Python**.
+- 👯 I’m looking to collaborate on **open source projects**.
+- 🤔 I’m looking for help with **open source projects**.
+- 🧑‍💻 Coding is my passion!
+- 🖋 Check out my [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
 
 [![Dashboard stats of @appleboy](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=21979&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=21979)
 
